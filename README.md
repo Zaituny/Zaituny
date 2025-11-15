@@ -3,7 +3,6 @@
 🧑🏻‍💻 Software Engineer trying to add value to the world<br/>
 👨🏼‍🎓 Studied Computer Engineering at [Ain Shams University](https://eng.asu.edu.eg/)<br/>
 🌱 I'm currently learning C++ and Qt<br/>
-⚡ Fun fact: you are now breathing manually 🙂<br/>
 
 
 # 💻 Tech Stack
