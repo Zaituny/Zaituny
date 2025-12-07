@@ -32,7 +32,6 @@
 
 <div align="center">
 <img src="https://github-readme-stats-omega-ten-63.vercel.app/api?username=Zaituny&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" width="48%" /></br>
-<img src="https://github-readme-stats-omega-ten-63.vercel.app/api?username=Zaituny&theme=nightowl&show_icons=true" width="48%" /></br>
 <img src="https://github-readme-stats-omega-ten-63.vercel.app/api/top-langs/?username=Zaituny&theme=nightowl&hide_border=false&layout=compact" width="48%" />
 
 </div>
